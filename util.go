@@ -3,10 +3,11 @@ package pb
 import (
 	"bytes"
 	"fmt"
-	"gopkg.in/mattn/go-runewidth.v0"
 	"math"
 	"regexp"
 	//"unicode/utf8"
+
+	"github.com/mattn/go-runewidth"
 )
 
 const (
